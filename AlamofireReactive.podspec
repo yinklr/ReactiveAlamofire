@@ -17,5 +17,5 @@ Pod::Spec.new do |s|
   s.requires_arc      = true
 
   s.dependency 'ReactiveKit', '~> 3.1'
-  s.dependency 'Alamofire', '4.2'
+  s.dependency 'Alamofire', '4.9'
 end
